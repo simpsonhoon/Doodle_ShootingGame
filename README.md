@@ -1,3 +1,11 @@
-# Doodle_ShootingGame
+## Doodle_ShootingGame
 
-Unity로 개발한 2D 슈팅 게임입니다.
+### Introduce
+- 2D Shooting Game
+
+### Development Tools
+- Unity / C#
+
+
+### Video
+- https://www.youtube.com/watch?v=dYavgqntZL4&ab_channel=%EC%94%B8%EC%93%B4
